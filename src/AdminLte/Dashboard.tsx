@@ -4,10 +4,10 @@ import { RouteComponentProps } from "react-router";
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 // const reactjsAdminlte = require("adminlte-reactjs");
 
-export default function Dashboard(_: RouteComponentProps) {
+export function Dashboard(_: RouteComponentProps) {
   return (
     <>
-      <h1>Dashboard</h1>
+      <h1>AdminLTE Dashboard</h1>
       {/* <reactjsAdminlte.InfoTile
         width="3"
         content=""
