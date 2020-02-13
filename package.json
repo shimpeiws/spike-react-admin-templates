@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "adminlte-reactjs": "^1.0.6",
     "@coreui/coreui": "^2.1.16",
     "@coreui/react": "^2.5.4",
     "react": "^16.12.0",
